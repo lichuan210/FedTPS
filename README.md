@@ -4,7 +4,7 @@ PyTorch implementation of "Traffic Pattern Sharing for Federated Traffic Flow Pr
 
 
 ## Requirement
-- Python 3.8.8
+- Python 3.8.8 
 - PyTorch 1.9.1
 - Pytorch_wavelets 1.3.0
 - METIS (only for graph partition) 
